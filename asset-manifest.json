@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.5b803637.css",
-    "main.js": "/static/js/main.7e1da68c.js",
-    "index.html": "/index.html",
-    "main.5b803637.css.map": "/static/css/main.5b803637.css.map",
-    "main.7e1da68c.js.map": "/static/js/main.7e1da68c.js.map"
+    "main.css": "/Chat-GPT-Clone-REDUNDANT/static/css/main.5b803637.css",
+    "main.js": "/Chat-GPT-Clone-REDUNDANT/static/js/main.7e1da68c.js",
+    "index.html": "/Chat-GPT-Clone-REDUNDANT/index.html",
+    "main.5b803637.css.map": "/Chat-GPT-Clone-REDUNDANT/static/css/main.5b803637.css.map",
+    "main.7e1da68c.js.map": "/Chat-GPT-Clone-REDUNDANT/static/js/main.7e1da68c.js.map"
   },
   "entrypoints": [
     "static/css/main.5b803637.css",
